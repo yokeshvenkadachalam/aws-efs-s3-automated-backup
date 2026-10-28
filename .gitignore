@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials
+.aws/
+*.log
+__pycache__/
